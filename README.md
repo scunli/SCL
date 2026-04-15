@@ -4,7 +4,7 @@ Official PyTorch implementation of **Laplacian Pyramid Monocular Depth Estimatio
 The model introduces a **Large‑kernel Perception and Small‑kernel Aggregation (LKP‑SKA)** module that mimics the human visual system – global context captured by large kernels guides adaptive local detail refinement.
 
 # Important Notice
-The code and data provided in this repository are directly associated with our manuscript currently under review at **The Visual Computer** journal (manuscript ID: [optional]). During the review process, the repository will remain in this state. If you use these resources in your work, please cite our related paper.
+The code and data provided in this repository are directly associated with our manuscript currently under review at **The Visual Computer** journal. During the review process, the repository will remain in this state. If you use these resources in your work, please cite our related paper.
 ---
 
 ## Key Features
